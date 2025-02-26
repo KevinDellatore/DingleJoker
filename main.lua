@@ -9,7 +9,7 @@
 
 SMODS.Atlas{
     key = 'Jokers',
-    path = 'dingle.png',
+    path = 'Joker.png',
     px = 71,
     py = 95
 }
