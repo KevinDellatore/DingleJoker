@@ -17,10 +17,10 @@ It can make the game very easy, but its intended as a joke :)
 
 To install you need 3 things: (assuming you have no other mods)
 
-1. [LOVELY](https://github.com/ethangreen-dev/lovely-injector)   put it into your main game directory
+1. [LOVELY](https://github.com/ethangreen-dev/lovely-injector)     Put this into your main game directory
 2. Go to your saves folder by typing "%appdata%\Balatro" into your file explorer and create a "Mods" folder
-3. [SteamModded/SMOD](https://github.com/Steamodded/smods)   place this into the new Mods Folder
-4. Create a folder inside your mods called "DingleJoker" and place this files into that.
+3. [SteamModded/SMOD](https://github.com/Steamodded/smods)   Put this into the new Mods Folder
+4. Create a folder inside your mods called "DingleMod" and place this files into that.
 5. PROFIT? DINGLE?
 
 Thanks
