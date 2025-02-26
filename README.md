@@ -1,10 +1,11 @@
 Here is a Balatro Joker featuring Dingle the Alien from Twitch.TV/Taylien
-                       .-.
-        .-""`""-.    |(@ @)
-     _/`oOoOoOoOo`\_ \ \-/
-    '.-=-=-=-=-=-=-.' \/ \
-jgs   `-=.=-.-=.=-'    \ /\
-         ^  ^  ^       _H_ \
+
+                         .-.
+          .-""`""-.    |(@ @)
+       _/`oOoOoOoOo`\_ \ \-/
+      '.-=-=-=-=-=-=-.' \/ \
+        `-=.=-.-=.=-'    \ /\
+           ^  ^  ^       _H_ \
 
 
 The joker gives you a flat multiplier to your hand mult. 
