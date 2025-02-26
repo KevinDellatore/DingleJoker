@@ -73,6 +73,7 @@ SMODS.Joker{
 
     in_pool = function(self,wawa,wawa2)
         return true
+    end,
 }
 
 -----------------------------------------------------------
